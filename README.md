@@ -1,4 +1,4 @@
-# JogoDoGalo-C
+# JogoDoGalo-C (Ainda em desenvolvimento)
 
 Jogo do Galo desenvolvido na linguagem C sem qualquer Array em âmbito escolar.
 
